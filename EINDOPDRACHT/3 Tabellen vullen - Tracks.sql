@@ -1,7 +1,7 @@
 -- IT Tech Automatiseren MsSQL
 -- Eindopdracht :: Tabellen vullen - Tracks
 
--- Zie ... voor de overige
+-- Zie /EINDOPDRACHT/3 Tabellen vullen.sql voor de overige
 
 -- Tracks
 INSERT INTO Tracks (Title, Length, AlbumID) VALUES
